@@ -1,15 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1594479988434" clover="3.2.0">
-  <project timestamp="1594479988434" name="All files">
-    <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1" elements="11" coveredelements="11" complexity="0" loc="6" ncloc="6" packages="1" files="1" classes="1"/>
-    <file name="app.js" path="E:\IT_and_programing\Frontend\8.0_Homeworks\Task_7.2\src\js\app.js">
-      <metrics statements="6" coveredstatements="6" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
-      <line num="2" count="4" type="cond" truecount="2" falsecount="0"/>
-      <line num="3" count="1" type="stmt"/>
-      <line num="5" count="3" type="stmt"/>
-      <line num="6" count="3" type="cond" truecount="2" falsecount="0"/>
-      <line num="7" count="1" type="stmt"/>
-      <line num="9" count="2" type="stmt"/>
-    </file>
+<coverage generated="1595184083748" clover="3.2.0">
+  <project timestamp="1595184083748" name="All files">
+    <metrics statements="20" coveredstatements="19" conditionals="10" coveredconditionals="9" methods="2" coveredmethods="2" elements="32" coveredelements="30" complexity="0" loc="20" ncloc="20" packages="2" files="2" classes="2"/>
+    <package name="dist.js">
+      <metrics statements="12" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <file name="app.js" path="E:\IT_and_programing\Frontend\8.0_Homeworks\Task_7.2\dist\js\app.js">
+        <metrics statements="12" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="16" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="20" count="3" type="stmt"/>
+        <line num="22" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.js">
+      <metrics statements="8" coveredstatements="7" conditionals="6" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <file name="getTelNumber.js" path="E:\IT_and_programing\Frontend\8.0_Homeworks\Task_7.2\src\js\getTelNumber.js">
+        <metrics statements="8" coveredstatements="7" conditionals="6" coveredconditionals="5" methods="1" coveredmethods="1"/>
+        <line num="3" count="9" type="stmt"/>
+        <line num="4" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="5" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="6" count="0" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="11" count="6" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+      </file>
+    </package>
   </project>
 </coverage>
